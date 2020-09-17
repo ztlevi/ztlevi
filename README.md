@@ -1,8 +1,8 @@
 # Hi there, this is Ting
 
-- 🔭 I’m a Emacs hacker!
-- 🌱 I’m a machine learning engineer 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m a Emacs hacker and Nix fan!
+- 🌱 I’m a machine learning engineer
+- 👯 I’m looking to collaborate with other open source contributors
 - ⚡ Fun fact: I love play acoustic guitar and tennis
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ztlevi)](https://github.com/anuraghazra/github-readme-stats)
