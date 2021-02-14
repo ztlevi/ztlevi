@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other open source contributors
 - ⚡ Fun fact: I love play acoustic guitar and tennis
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ztlevi&show_icons=true&theme=default)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ztlevi&show_icons=true&theme=onedark)
 
 ### Blog posts
 
